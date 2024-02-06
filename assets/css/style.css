@@ -103,7 +103,7 @@ a:link {
 footer {
     background-color: black; 
     font-family: verdana; 
-    font-size: 50%; 
+    font-size: 20px; 
     height: 40px; 
     color:white;
     text-align: center;
@@ -142,6 +142,6 @@ table, th {
 }
 
 #sobre{
-    margin: 20%;
+    margin: 10%;
     font-size: 20px;
 }
