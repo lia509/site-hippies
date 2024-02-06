@@ -1,0 +1,143 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(12, 12, 12); 
+    text-align: center;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    color: rgb(252, 255, 240);
+    list-style-type: none;
+    cursor: pointer;
+    margin-top: 40px;
+    margin-left: 25px;
+    padding-left: 25px;
+    font-size: medium;
+}
+
+a {
+    color: beige;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#hov1 a:hover {
+    color: #f1d659;
+}
+#hov2 a:hover {
+    color: #f17f22;
+}
+#hov3 a:hover {
+    color: #a3583d;
+}
+#hov4 a:hover {
+    color:#ca2a14;
+}
+#hov5 a:hover {
+    color:#1e71a1;
+}
+
+#tit1 {
+    font-size: 30px;
+    font-family: georgia;
+    color:#f1d659;
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+#tit2 {
+    font-size: 30px;
+    font-family: georgia;
+    color:  #f17f22;
+    padding-left: 50px;
+}
+
+#tit3 {
+    font-size: 30px;
+    font-family: georgia;
+    color: #a3583d;
+    padding-left: 50px;
+}
+
+#tit4 {
+    font-size: 30px;
+    font-family: georgia;
+    color: #ca2a14;
+    padding-left: 50px;
+}
+
+#tit5 {
+    font-size: 30px;
+    font-family: georgia;
+    color: rgb(221, 221, 180);
+    background-color: #1e71a1;
+    padding-left: 10px;
+    border-bottom: outset black;
+    padding-left: 50px;
+}
+
+.ft {
+    text-align: center;
+}
+
+.textin {
+    text-align: justifys;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+.sbt {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+footer {
+    background-color: black; 
+    font-family: verdana; 
+    font-size: 50%; 
+    height: 40px; 
+    color:white;
+    text-align: center;
+    padding-top: 30px;
+}
+
+table {
+    text-align: justify;
+    font-size: 20px;
+    width: 1150px;
+
+    margin-left: 100px;
+    margin-right: 100px;
+}
+    
+
+
+
+td {
+    
+    padding-left: 25px;
+    padding-right: 25px;
+}
+    
+   
+table, th {
+    font-family: georgia;
+    font-size: 20px; 
+}
+
+#festas {
+    width: 1300px;
+    font-size: 15px;
+    margin-left: 20px;
+    margin-right: 40px;
+    
+}
